@@ -1,0 +1,4 @@
+net core
+foi utilizado migration.
+e feito para banco de dados SQL.
+
